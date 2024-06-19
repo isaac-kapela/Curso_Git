@@ -16,7 +16,11 @@ Instalamos o Git e vimos alguns comandos
 ## Aula 3
 
 O que foi que eu aprendi aqui?
+Configuramos globamente o GIT
 
+Iniciamos um repositorio local GIT
+
+Demos nossos primeiros comandos no terminal
 ## Aula 4
 
 O que foi que eu aprendi aqui?
